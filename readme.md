@@ -1,1 +1,3 @@
-All servers and projects are serving here. 
+
+This directory contains all servers and projects. 
+
